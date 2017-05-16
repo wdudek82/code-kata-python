@@ -1,0 +1,175 @@
+xset:  bad font path element (#2), possible causes are:
+    Directory does not exist or has wrong permissions
+    Directory missing fonts.dir
+    Incorrect font server address or syntax
+startkde: Starting up...
+
+vmware-user: could not open /proc/fs/vmblock/dev
+Already running
+Starting Dropbox...OpenGL vendor string:                   Intel Open Source Technology Center
+OpenGL renderer string:                 Mesa DRI Intel(R) Sandybridge Mobile 
+OpenGL version string:                  3.0 Mesa 17.0.5
+OpenGL shading language version string: 1.30
+Driver:                                 Intel
+GPU class:                              SandyBridge
+OpenGL version:                         3.0
+GLSL version:                           1.30
+Mesa version:                           17.0.5
+Linux kernel version:                   4.10.14
+Requires strict binding:                yes
+GLSL shaders:                           yes
+Texture NPOT support:                   yes
+Virtual Machine:                        no
+Service started, version: 7.0.0
+DCOPClient::attachInternal. Attach failed Could not open network socket
+Dropbox isn't running!
+Done!
+DCOPClient::attachInternal. Attach failed Could not open network socket
+kbuildsycoca running...
+Reusing existing ksycoca
+[13621:13621:0516/092124.326370:ERROR:render_process_host_impl.cc(2094)] Request for unknown Channel-associated interface: device::mojom::ScreenOrientationListener
+
+** (terminator:4221): WARNING **: Binding '<Control><Alt>a' failed!
+Unable to bind hide_window key, another instance/window has it.
+
+(terminator:4221): Gtk-WARNING **: Allocating size to GtkVScrollbar 0x5611178e4310 without calling gtk_widget_get_preferred_width/height(). How does the code know the size to allocate?
+[13621:14104:0516/092914.711659:ERROR:upload_data_presenter.cc(77)] Not implemented reached in virtual void extensions::RawDataPresenter::FeedNext(const net::UploadElementReader &)
+[0516/093219:WARNING:resource_bundle.cc(311)] locale_file_path.empty() for locale 
+Qt WebEngine ICU data not found at /work/external/qt-installer/Qt/5.7/gcc_64/resources. Trying parent directory...
+Qt WebEngine ICU data not found at /work/external/qt-installer/Qt/5.7/gcc_64. Trying application directory...
+Installed Qt WebEngine locales directory not found at location /work/external/qt-installer/Qt/5.7/gcc_64/translations/qtwebengine_locales. Trying application directory...
+Qt WebEngine locales directory not found at location /tmp/.mount_0juG3i/usr/share/jetbrains-toolbox/libexec/qtwebengine_locales. Trying fallback directory... Translations MAY NOT not be correct.
+Qt WebEngine resources not found at /work/external/qt-installer/Qt/5.7/gcc_64/resources. Trying parent directory...
+Qt WebEngine resources not found at /work/external/qt-installer/Qt/5.7/gcc_64. Trying application directory...
+[0516/093220:WARNING:resource_bundle.cc(311)] locale_file_path.empty() for locale 
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4400A8,name=PContent::Msg_ConsoleMessage) Channel closing: too late to send/recv, messages will be lost
+
+1494920002208	addons.update-checker	WARN	Update manifest for e10srollout@mozilla.org did not contain an updates property
+1494920002236	addons.update-checker	WARN	Update manifest for firefox@getpocket.com did not contain an updates property
+1494920002246	addons.update-checker	WARN	Update manifest for webcompat@mozilla.org did not contain an updates property
+1494920002256	addons.update-checker	WARN	Update manifest for {972ce4c6-7e08-4474-a285-3208198ce6fd} did not contain an updates property
+[13621:14104:0516/093740.623082:ERROR:upload_data_presenter.cc(77)] Not implemented reached in virtual void extensions::RawDataPresenter::FeedNext(const net::UploadElementReader &)
+X Error: BadWindow (invalid Window parameter) 3
+  Major opcode:  20
+  Minor opcode:  0
+  Resource id:  0x5a00e10
+X Error: BadWindow (invalid Window parameter) 3
+  Major opcode:  20
+  Minor opcode:  0
+  Resource id:  0x5a01a37
+[13621:14104:0516/100440.134187:ERROR:upload_data_presenter.cc(77)] Not implemented reached in virtual void extensions::RawDataPresenter::FeedNext(const net::UploadElementReader &)
+[13621:14104:0516/100936.307065:ERROR:upload_data_presenter.cc(77)] Not implemented reached in virtual void extensions::RawDataPresenter::FeedNext(const net::UploadElementReader &)
+[13621:14104:0516/100938.515690:ERROR:upload_data_presenter.cc(77)] Not implemented reached in virtual void extensions::RawDataPresenter::FeedNext(const net::UploadElementReader &)
+[13621:14104:0516/100939.997110:ERROR:upload_data_presenter.cc(77)] Not implemented reached in virtual void extensions::RawDataPresenter::FeedNext(const net::UploadElementReader &)
+X Error: BadWindow (invalid Window parameter) 3
+  Major opcode:  20
+  Minor opcode:  0
+  Resource id:  0x5a01c46
+X Error: BadWindow (invalid Window parameter) 3
+  Major opcode:  20
+  Minor opcode:  0
+  Resource id:  0x5a01e11
+X Error: BadWindow (invalid Window parameter) 3
+  Major opcode:  20
+  Minor opcode:  0
+  Resource id:  0x5a01eab
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+[13621:14104:0516/105330.766208:ERROR:upload_data_presenter.cc(77)] Not implemented reached in virtual void extensions::RawDataPresenter::FeedNext(const net::UploadElementReader &)
+[13621:14104:0516/105331.669720:ERROR:upload_data_presenter.cc(77)] Not implemented reached in virtual void extensions::RawDataPresenter::FeedNext(const net::UploadElementReader &)
+[13621:13621:0516/111020.354836:ERROR:navigation_entry_screenshot_manager.cc(135)] Invalid entry with unique id: 168
+[13621:14104:0516/111159.037614:ERROR:upload_data_presenter.cc(77)] Not implemented reached in virtual void extensions::RawDataPresenter::FeedNext(const net::UploadElementReader &)
+[13621:14104:0516/111200.835385:ERROR:upload_data_presenter.cc(77)] Not implemented reached in virtual void extensions::RawDataPresenter::FeedNext(const net::UploadElementReader &)
+[13621:14104:0516/111217.121764:ERROR:upload_data_presenter.cc(77)] Not implemented reached in virtual void extensions::RawDataPresenter::FeedNext(const net::UploadElementReader &)
+[13621:14104:0516/111353.282046:ERROR:upload_data_presenter.cc(77)] Not implemented reached in virtual void extensions::RawDataPresenter::FeedNext(const net::UploadElementReader &)
+A Parser-blocking, cross site (i.e. different eTLD+1) script, http://secure.p01.eloqua.com/visitor/v200/svrGP.aspx?pps=70&siteid=1856&ref=http://www.infoworld.com/article/3067697/application-development/ruby-again-shines-in-language-popularity.html&ms=696, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message.See https://www.chromestatus.com/feature/5718547946799104 for more details.
+A Parser-blocking, cross site (i.e. different eTLD+1) script, http://secure.p01.eloqua.com/visitor/v200/svrGP.aspx?pps=70&siteid=1856&ref=http://www.infoworld.com/article/3067697/application-development/ruby-again-shines-in-language-popularity.html&ms=696, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message.See https://www.chromestatus.com/feature/5718547946799104 for more details.
+A Parser-blocking, cross site (i.e. different eTLD+1) script, http://secure.p01.eloqua.com/visitor/v200/svrGP.aspx?pps=70&siteid=1856&ref=http://www.infoworld.com/article/3041333/application-development/ruby-python-groovy-post-surprise-gains-in-popularity.html&ms=38, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message.See https://www.chromestatus.com/feature/5718547946799104 for more details.
+A Parser-blocking, cross site (i.e. different eTLD+1) script, http://secure.p01.eloqua.com/visitor/v200/svrGP.aspx?pps=70&siteid=1856&ref=http://www.infoworld.com/article/3041333/application-development/ruby-python-groovy-post-surprise-gains-in-popularity.html&ms=38, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message.See https://www.chromestatus.com/feature/5718547946799104 for more details.
+[13621:14104:0516/111640.743722:ERROR:upload_data_presenter.cc(77)] Not implemented reached in virtual void extensions::RawDataPresenter::FeedNext(const net::UploadElementReader &)
+[13621:14104:0516/111929.064835:ERROR:upload_data_presenter.cc(77)] Not implemented reached in virtual void extensions::RawDataPresenter::FeedNext(const net::UploadElementReader &)
+[13621:14104:0516/112241.348962:ERROR:upload_data_presenter.cc(77)] Not implemented reached in virtual void extensions::RawDataPresenter::FeedNext(const net::UploadElementReader &)
+kbuildsycoca running...
+Reusing existing ksycoca
+Creating Slack Application
+kbuildsycoca running...
+Reusing existing ksycoca
+kbuildsycoca running...
+Reusing existing ksycoca
+[13621:14104:0516/112442.252336:ERROR:upload_data_presenter.cc(77)] Not implemented reached in virtual void extensions::RawDataPresenter::FeedNext(const net::UploadElementReader &)
+[1:1:0516/112502.121919:ERROR:KeyboardEventManager.cpp(427)] Not implemented reached in static bool blink::KeyboardEventManager::currentCapsLockState()
+A Parser-blocking, cross site (i.e. different eTLD+1) script, https://securepubads.g.doubleclick.net/gpt/pubads_impl_117.js, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message.See https://www.chromestatus.com/feature/5718547946799104 for more details.
+A Parser-blocking, cross site (i.e. different eTLD+1) script, https://securepubads.g.doubleclick.net/gpt/pubads_impl_117.js, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message.See https://www.chromestatus.com/feature/5718547946799104 for more details.
+A Parser-blocking, cross site (i.e. different eTLD+1) script, https://securepubads.g.doubleclick.net/gampad/ads?gdfp_req=1&correlator=3109242945489506&output=json_html&callback=googletag.impl.pubads.setPassbackAdContents&impl=s&eid=108809080%2C21060202&sc=0&sfv=1-0-8&iu=8456%2FIDG.Phoronix.com_Homepage&sz=160x600&eri=2&cookie_enabled=1&abxe=1&lmt=1494926987&dt=1494926987500&cc=100&frm=20&biw=1905&bih=929&oid=3&adk=3247634364&ifi=1&u_tz=120&u_his=3&u_h=1080&u_w=1920&u_ah=1048&u_aw=1920&u_cd=24&u_nplug=4&u_nmime=5&u_sd=1&flash=0&url=http%3A%2F%2Fwww.phoronix.com%2Fscan.php%3Fpage%3Dsearch%26q%3DFedora%2B26&ref=https%3A%2F%2Fwww.google.pl%2F&dssz=14&icsg=12298&std=0&vrg=117&vrp=117&ga_vid=1529600105.1494926987&ga_sid=1494926987&ga_hid=1532559606&ga_fc=true, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message.See https://www.chromestatus.com/feature/5718547946799104 for more details.
+A Parser-blocking, cross site (i.e. different eTLD+1) script, https://securepubads.g.doubleclick.net/gampad/ads?gdfp_req=1&correlator=3109242945489506&output=json_html&callback=googletag.impl.pubads.setPassbackAdContents&impl=s&eid=108809080%2C21060202&sc=0&sfv=1-0-8&iu=8456%2FIDG.Phoronix.com_Homepage&sz=160x600&eri=2&cookie_enabled=1&abxe=1&lmt=1494926987&dt=1494926987500&cc=100&frm=20&biw=1905&bih=929&oid=3&adk=3247634364&ifi=1&u_tz=120&u_his=3&u_h=1080&u_w=1920&u_ah=1048&u_aw=1920&u_cd=24&u_nplug=4&u_nmime=5&u_sd=1&flash=0&url=http%3A%2F%2Fwww.phoronix.com%2Fscan.php%3Fpage%3Dsearch%26q%3DFedora%2B26&ref=https%3A%2F%2Fwww.google.pl%2F&dssz=14&icsg=12298&std=0&vrg=117&vrp=117&ga_vid=1529600105.1494926987&ga_sid=1494926987&ga_hid=1532559606&ga_fc=true, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message.See https://www.chromestatus.com/feature/5718547946799104 for more details.
+A Parser-blocking, cross site (i.e. different eTLD+1) script, http://c.fqtag.com/tag/implement-r.js?org=Iu1r4OkxQAioqGtfBjKG&p=phoronix.com&a=/8456/IDG.Phoronix.com_Homepage&fmt=banner&rd=http://www.phoronix.com/scan.php?page=search&q=Fedora+26&rt=display&sl=1&fq=1, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message.See https://www.chromestatus.com/feature/5718547946799104 for more details.
+A Parser-blocking, cross site (i.e. different eTLD+1) script, http://c.fqtag.com/tag/implement-r.js?org=Iu1r4OkxQAioqGtfBjKG&p=phoronix.com&a=/8456/IDG.Phoronix.com_Homepage&fmt=banner&rd=http://www.phoronix.com/scan.php?page=search&q=Fedora+26&rt=display&sl=1&fq=1, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message.See https://www.chromestatus.com/feature/5718547946799104 for more details.
+A Parser-blocking, cross site (i.e. different eTLD+1) script, http://tags.expo9.exponential.com/tags/Phoronixcom/ROS/tags.js, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message.See https://www.chromestatus.com/feature/5718547946799104 for more details.
+A Parser-blocking, cross site (i.e. different eTLD+1) script, https://tpc.googlesyndication.com/pagead/js/r20170508/r20110914/activeview/osd_listener.js, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message.See https://www.chromestatus.com/feature/5718547946799104 for more details.
+A Parser-blocking, cross site (i.e. different eTLD+1) script, https://z.moatads.com/idg235774026756/moatad.js#moatClientLevel1=12445736&moatClientLevel2=121794296&moatClientLevel3=7281056&moatClientLevel4=19181678936&moatClientSlicer1=6699656&moatClientSlicer2=6699656&zMoatPS=&zMoatPD=&zMoatPT=, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message.See https://www.chromestatus.com/feature/5718547946799104 for more details.
+[13621:14104:0516/113138.975734:ERROR:upload_data_presenter.cc(77)] Not implemented reached in virtual void extensions::RawDataPresenter::FeedNext(const net::UploadElementReader &)
+[1:1:0516/115131.795232:ERROR:KeyboardEventManager.cpp(427)] Not implemented reached in static bool blink::KeyboardEventManager::currentCapsLockState()
+[1:1:0516/115324.392002:ERROR:KeyboardEventManager.cpp(427)] Not implemented reached in static bool blink::KeyboardEventManager::currentCapsLockState()
+[1:1:0516/115522.077821:ERROR:KeyboardEventManager.cpp(427)] Not implemented reached in static bool blink::KeyboardEventManager::currentCapsLockState()
+[1:1:0516/115650.632775:ERROR:KeyboardEventManager.cpp(427)] Not implemented reached in static bool blink::KeyboardEventManager::currentCapsLockState()
+[1:1:0516/115718.865721:ERROR:KeyboardEventManager.cpp(427)] Not implemented reached in static bool blink::KeyboardEventManager::currentCapsLockState()
+[1:1:0516/115752.606189:ERROR:KeyboardEventManager.cpp(427)] Not implemented reached in static bool blink::KeyboardEventManager::currentCapsLockState()
+[1:1:0516/115759.004187:ERROR:KeyboardEventManager.cpp(427)] Not implemented reached in static bool blink::KeyboardEventManager::currentCapsLockState()
+[1:1:0516/115849.318130:ERROR:KeyboardEventManager.cpp(427)] Not implemented reached in static bool blink::KeyboardEventManager::currentCapsLockState()
+[13621:13621:0516/115915.102520:ERROR:desktop_drag_drop_client_aurax11.cc(464)] XConvertSelection failed for source-advertised target 655
+[13621:14104:0516/120134.350126:ERROR:upload_data_presenter.cc(77)] Not implemented reached in virtual void extensions::RawDataPresenter::FeedNext(const net::UploadElementReader &)
+[1:1:0516/120452.538761:ERROR:KeyboardEventManager.cpp(427)] Not implemented reached in static bool blink::KeyboardEventManager::currentCapsLockState()
+[1:1:0516/120514.003938:ERROR:KeyboardEventManager.cpp(427)] Not implemented reached in static bool blink::KeyboardEventManager::currentCapsLockState()
+[1:1:0516/120516.585451:ERROR:KeyboardEventManager.cpp(427)] Not implemented reached in static bool blink::KeyboardEventManager::currentCapsLockState()
+[1:1:0516/120524.949105:ERROR:KeyboardEventManager.cpp(427)] Not implemented reached in static bool blink::KeyboardEventManager::currentCapsLockState()
+[1:1:0516/120530.635449:ERROR:KeyboardEventManager.cpp(427)] Not implemented reached in static bool blink::KeyboardEventManager::currentCapsLockState()
+[1:1:0516/120537.270506:ERROR:KeyboardEventManager.cpp(427)] Not implemented reached in static bool blink::KeyboardEventManager::currentCapsLockState()
+[1:1:0516/120554.015925:ERROR:KeyboardEventManager.cpp(427)] Not implemented reached in static bool blink::KeyboardEventManager::currentCapsLockState()
+console.warn: nsLoginManager: searchLogins: `formSubmitURL` or `httpRealm` is recommended
+[13621:13621:0516/122831.466577:ERROR:navigation_entry_screenshot_manager.cc(135)] Invalid entry with unique id: 170
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+** Message: PackageKit: xid = 96469199
+** Message: PackageKit: desktop_id = (null)
+** Message: PackageKit: Codec nice name: H.264 (High Profile) decoder
+** Message: PackageKit: ignoring field named level
+** Message: PackageKit: ignoring field named profile
+** Message: PackageKit: structure: gstreamer1(decoder-video/x-h264)()(64bit)
+** Message: PackageKit: Did not install codec: GDBus.Error:org.freedesktop.DBus.Error.UnknownInterface: No such interface 'org.freedesktop.PackageKit.Modify2' at object path '/org/freedesktop/PackageKit'
+X Error: BadWindow (invalid Window parameter) 3
+  Major opcode:  20
+  Minor opcode:  0
+  Resource id:  0x5c000cf
+Legacy integer arithmetics implementation 
+words(27249) DocxXmlDocumentReader::read_lang: invalid value of "val" attribute: ""  - skipping 
+Connecting to deprecated signal QDBusConnectionInterface::serviceOwnerChanged(QString,QString,QString)
+kbuildsycoca4 running...
+connect failed: No such file or directory
+words(27249)/kdeui (KAction) KActionCollection::setComponentData: this does not work on a KActionCollection containing actions! 
+QFont::setPointSizeF: Point size <= 0 (0.000000), must be greater than 0
+words(27249)/kdeui (kdelibs): Attempt to use QAction "edit_replace" with KXMLGUIFactory! 
+[0000556c40c6f1c8] core libvlc: Running vlc with the default interface. Use 'cvlc' to use vlc without interface.
+Failed to open VDPAU backend libvdpau_va_gl.so: cannot open shared object file: No such file or directory
+Failed to open VDPAU backend libvdpau_va_gl.so: cannot open shared object file: No such file or directory
+
+** (process:27249): WARNING **: 1 dictionaries weren't free'd.
+
+Legacy integer arithmetics implementation 
+words(2657) DocxXmlDocumentReader::read_lang: invalid value of "val" attribute: ""  - skipping 
+connect failed: No such file or directory
+words(2657)/kdeui (KAction) KActionCollection::setComponentData: this does not work on a KActionCollection containing actions! 
+QFont::setPointSizeF: Point size <= 0 (0.000000), must be greater than 0
+words(2657)/kdeui (kdelibs): Attempt to use QAction "edit_replace" with KXMLGUIFactory! 
+
+** (process:2657): WARNING **: 1 dictionaries weren't free'd.
+
+kbuildsycoca4 running...
+
+(soffice:2760): Gtk-CRITICAL **: gtk_container_foreach: assertion 'GTK_IS_CONTAINER (container)' failed
+Gtk-Message: GtkDialog mapped without a transient parent. This is discouraged.
+X Error: BadWindow (invalid Window parameter) 3
+  Major opcode:  20
+  Minor opcode:  0
+  Resource id:  0x6a003a0
+[13621:13621:0516/125542.693777:ERROR:navigation_entry_screenshot_manager.cc(135)] Invalid entry with unique id: 189
+[13621:13621:0516/125623.961891:ERROR:navigation_entry_screenshot_manager.cc(135)] Invalid entry with unique id: 175
+[13621:14104:0516/130610.854037:ERROR:upload_data_presenter.cc(77)] Not implemented reached in virtual void extensions::RawDataPresenter::FeedNext(const net::UploadElementReader &)
