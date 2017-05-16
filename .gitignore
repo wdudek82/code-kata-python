@@ -1,3 +1,5 @@
+__pycache__
+
 .idea/
 
 archive*
@@ -5,4 +7,6 @@ archive*
 *.pyc
 *.txt
 .directory
-/learning-modules/dest/
+/learning-modules/copy_biggest/dest/
+.cache/
+
