@@ -10,3 +10,5 @@ archive*
 /learning-modules/copy_biggest/dest/
 .cache/
 
+/sqlite/dump.sql
+/sqlite/test.db
