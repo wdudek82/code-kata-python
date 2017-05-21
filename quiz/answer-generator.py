@@ -17,7 +17,6 @@ def generate_answers(minimum, maximum, step):
     answers = scope[ind:ind+3]
     shuffle(answers)
 
-    # Returns all answers, and correct one
     return answers, answers[0]
 
 
