@@ -12,3 +12,4 @@ archive*
 
 /sqlite/dump.sql
 /sqlite/test.db
+csv/
