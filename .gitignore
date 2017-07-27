@@ -1,6 +1,7 @@
 __pycache__
 
 .idea/
+.cache/
 
 archive*
 
@@ -8,7 +9,6 @@ archive*
 *.txt
 .directory
 /learning-modules/copy_biggest/dest/
-.cache/
 
 /sqlite/dump.sql
 /sqlite/test.db
