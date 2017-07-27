@@ -1,15 +1,20 @@
 class BankAccount:
 
     def __init__(self):
-        self._deposit = 0
+        self._balance = 0
 
     @property
-    def deposit(self):
-        return self._deposit
+    def balance(self):
+        return self._balance
 
-    @deposit.setter
     def deposit(self, value):
-        self._deposit = value
+        if value >= 0:
+            self._balance += value
+        else:
+            raise ValueError('Deposit value must be positive integer')
+
+    def withdraw(self, value):
+        self._balance -= value
 
 
 if __name__ == '__main__':
