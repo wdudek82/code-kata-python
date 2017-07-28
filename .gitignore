@@ -7,6 +7,7 @@ archive*
 
 *.pyc
 *.txt
+.coverage
 .directory
 /learning-modules/copy_biggest/dest/
 

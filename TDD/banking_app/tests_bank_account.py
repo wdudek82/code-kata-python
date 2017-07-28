@@ -5,9 +5,13 @@ from .bank_account import BankAccount
 class TestBankAccount(unittest.TestCase):
 
     def setUp(self):
-        self.acc = BankAccount()
-        self.acc.deposit(50)
+        self.acc = BankAccount(50)
+
+    def test_balance_get(self):
         self.assertEqual(self.acc.balance, 50)
+
+    def test_balance_set(self):
+        self.assertRaises(TypeError, self.acc.balance, 10)
 
     def test_balance_direct_assignment(self):
         with self.assertRaises(AttributeError):
@@ -48,6 +52,13 @@ class TestBankAccount(unittest.TestCase):
 
     def test_withdraw_negative_value_raises_value_exception(self):
         self.assertRaises(ValueError, self.acc.withdraw, -10)
+
+    def test_withdraw_exceeds_balance_with_penelty(self):
+        """
+        Penalty for exceeding balance is 5 units
+        """
+        self.acc.withdraw(60)
+        self.assertEqual(self.acc.balance, -15)
 
     def tearDown(self):
         del self.acc
