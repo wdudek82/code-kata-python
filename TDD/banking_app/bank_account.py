@@ -7,14 +7,23 @@ class BankAccount:
     def balance(self):
         return self._balance
 
-    def deposit(self, value):
+    def deposit(self, value=0):
+        if not value:
+            value = 0
+
         if value >= 0:
             self._balance += value
         else:
-            raise ValueError('Deposit value must be positive integer')
+            raise ValueError('Deposit value must be a positive integer')
 
-    def withdraw(self, value):
-        self._balance -= value
+    def withdraw(self, value=0):
+        if not value:
+            value = 0
+
+        if value >= 0:
+            self._balance -= value
+        else:
+            raise ValueError('Withdraw value must be a positive integer')
 
 
 if __name__ == '__main__':
