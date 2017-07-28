@@ -2,20 +2,10 @@ import unittest
 from .bank_account import BankAccount
 
 
-class TestBankAccount(unittest.TestCase):
+class BankAccountTestCase(unittest.TestCase):
 
     def setUp(self):
         self.acc = BankAccount(50)
-
-    def test_balance_get(self):
-        self.assertEqual(self.acc.balance, 50)
-
-    def test_balance_set(self):
-        self.assertRaises(TypeError, self.acc.balance, 10)
-
-    def test_balance_direct_assignment(self):
-        with self.assertRaises(AttributeError):
-            self.acc.balance = 10
 
     def test_deposit_money(self):
         self.acc.deposit(50)
