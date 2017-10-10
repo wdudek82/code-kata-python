@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "7027e096044cc3b8f26578e9b46f47c36e32102a08eb936bcd40eef1466d232b"
+            "sha256": "da5aced237a3fed7e20a6f834e31bb91a9d501dddc15019fce8e930448da9320"
         },
         "requires": {},
         "sources": [
@@ -28,16 +28,19 @@
             "version": "==0.4.12"
         },
         "idna": {
-            "version": "==2.5"
+            "version": "==2.6"
         },
         "ipython": {
-            "version": "==6.1.0"
+            "version": "==6.2.1"
         },
         "ipython-genutils": {
             "version": "==0.2.0"
         },
         "jedi": {
-            "version": "==0.10.2"
+            "version": "==0.11.0"
+        },
+        "parso": {
+            "version": "==0.1.0"
         },
         "pexpect": {
             "version": "==4.2.1"
@@ -58,22 +61,25 @@
             "version": "==2.2.0"
         },
         "pytest": {
-            "version": "==3.1.3"
+            "version": "==3.2.2"
         },
         "requests": {
-            "version": "==2.18.2"
+            "version": "==2.18.4"
         },
         "setuptools": {
-            "version": "==36.2.4"
+            "version": "==36.5.0"
         },
         "simplegeneric": {
             "version": "==0.8.1"
         },
         "six": {
-            "version": "==1.10.0"
+            "version": "==1.11.0"
         },
         "traitlets": {
             "version": "==4.3.2"
+        },
+        "unittest-xml-reporting": {
+            "version": "==2.1.0"
         },
         "urllib3": {
             "version": "==1.22"
